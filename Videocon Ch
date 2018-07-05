@@ -1,18 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Suluk®IN: SONY PIX HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
-#EXTINF:-1,Suluk®IN: SONY PLEX HD
-http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/01.m3u8
-#EXTINF:-1,Suluk®IN: SONY ROX HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/01.m3u8
-#EXTINF:-1,Suluk®IN: Animal Planet HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-#EXTINF:-1,Suluk®IN: Discovery WORLD HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:-1,Suluk®IN: SONY BBC EARTH HD
-http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8
-#EXTINF:-1,Suluk®IN: AXN HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
+
 #EXTINF:-1,Suluk®IN: Star Sports 1 HD
 http://izgemma.ddns.net:8000/live/office/test/612.ts
 #EXTINF:-1,Suluk®IN: Star Sports 2 HD
@@ -59,7 +46,20 @@ http://izgemma.ddns.net:8000/live/office/test/479.ts
 http://izgemma.ddns.net:8000/live/office/test/478.ts
 #EXTINF:-1,Suluk®TR: Bein Sports 2 HD
 http://izgemma.ddns.net:8000/live/office/test/6036.ts
-
+#EXTINF:-1,Suluk®IN: SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
+#EXTINF:-1,Suluk®IN: SONY PLEX HD
+http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/01.m3u8
+#EXTINF:-1,Suluk®IN: SONY ROX HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/01.m3u8
+#EXTINF:-1,Suluk®IN: Animal Planet HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
+#EXTINF:-1,Suluk®IN: Discovery WORLD HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
+#EXTINF:-1,Suluk®IN: SONY BBC EARTH HD
+http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8
+#EXTINF:-1,Suluk®IN: AXN HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
 #EXTINF:-1,Suluk®UK@ At The Races
 http://izgemma.ddns.net:8000/live/office/test/36498.ts
 #EXTINF:-1,Suluk®UK@ At The Races (Backup)
