@@ -1,301 +1,358 @@
 #EXTM3U
+#EXTINF:-1, SW™ - CCTV 1
+http://103.242.13.90:5555/udp/239.4.2.9:10000
+#EXTINF:-1, SW™ - CCTV 3
+http://103.242.13.90:5555/udp/239.4.1.53:10000
+#EXTINF:-1, SW™ - CCTV 4
+http://103.242.13.90:5555/udp/239.4.1.10:10000
+#EXTINF:-1, SW™ - CCTV 4
+http://103.242.13.90:5555/udp/239.4.2.10:10000
+#EXTINF:-1, SW™ - CCTV 5
+http://103.242.13.90:5555/udp/239.4.1.66:10000
+#EXTINF:-1, SW™ - CCTV 5
+http://103.242.13.90:5555/udp/239.4.2.55:10000
+#EXTINF:-1, SW™ - CCTV 6
+http://103.242.13.90:5555/udp/239.4.1.67:10000
+#EXTINF:-1, SW™ - CCTV 8
+http://103.242.13.90:5555/udp/239.4.1.78:10000
+#EXTINF:-1, SW™ - CCTV 13 
+http://103.242.13.90:5555/udp/239.4.2.14:10000
+#EXTINF:-1, SW™ - CCTV 13
+http://103.242.13.90:5555/udp/239.4.1.14:10000
+#EXTINF:-1, SW™ - CCTV 10
+http://103.242.13.90:5555/udp/239.4.1.17:10000
+#EXTINF:-1, SW™ - CCTV 15
+http://103.242.13.90:5555/udp/239.4.1.12:10000
+#EXTINF:-1, SW™ - Fox Action Movies
+http://103.242.13.90:5555/udp/239.4.1.72:10000
+#EXTINF:-1, SW™ - FOX MOVIES PRE
+http://103.242.13.90:5555/udp/239.4.1.84:10000
+#EXTINF:-1, SW™ - FOX HD
+http://103.242.13.90:5555/udp/239.4.1.83:10000
+#EXTINF:-1, SW™ - FOX LIFE
+http://103.242.13.90:5555/udp/239.4.1.82:10000
+#EXTINF:-1, SW™ -  Fox Sports 3 HD
+http://103.242.13.90:5555/udp/239.4.1.44:10000
+#EXTINF:-1, SW™ -  Fox Sports HD
+http://103.242.13.90:5555/udp/239.4.1.47:10000
+#EXTINF:-1, SW™ - Fox Sports 2 
+http://103.242.13.90:5555/udp/239.4.1.48:10000
+#EXTINF:-1, SW™ - Fox Action Movies 
+http://103.242.13.90:5555/udp/239.4.1.72:10000
+#EXTINF:-1, SW™ - Fox Action Movies
+http://103.242.13.90:5555/udp/239.4.2.72:10000
+#EXTINF:-1, SW™ - RT HD
+http://103.242.13.90:5555/udp/239.4.1.98:10000
+#EXTINF:-1, SW™ - Setanta TV HD
+http://103.242.13.90:5555/udp/239.4.1.132:10000
+#EXTINF:-1, SW™ - PNN Service HD
+http://103.242.13.90:5555/udp/239.4.1.58:10000
+#EXTINF:-1, SW™ - NHK HD
+http://103.242.13.90:5555/udp/239.4.1.68:10000
+#EXTINF:-1, SW™ - FOX HD
+http://103.242.13.90:5555/udp/239.4.1.83:10000
+#EXTINF:-1, SW™ - STAR WORLD HD
+http://103.242.13.90:5555/udp/239.4.1.82:10000
+#EXTINF:-1, SW™ - RT HD
+http://103.242.13.90:5555/udp/239.4.1.98:10000
+#EXTINF:-1, SW™ - New HD
+http://103.242.13.90:5555/udp/239.4.1.125:10000
+#EXTINF:-1, SW™ - Setanta TV HD
+http://103.242.13.90:5555/udp/239.4.1.132:10000
+#EXTINF:-1, SW™ - Service01 HD
+http://103.242.13.90:5555/udp/239.4.1.199:10000
+#EXTINF:-1, SW™ - TV9 HD
+http://103.242.13.90:5555/udp/239.4.1.200:10000
+#EXTINF:-1, SW™ - Nice TV HD
+http://103.242.13.90:5555/udp/239.4.1.218:10000
+#EXTINF:-1, SW™ - HKS-HD
+http://103.242.13.90:5555/udp/239.4.1.64:10000
+#EXTINF:-1, SW™ - New HD
+http://103.242.13.90:5555/udp/239.4.1.9:10000
+#EXTINF:-1, SW™ - FTV UHD ASIA
+http://103.242.13.90:5555/udp/239.4.1.45:10000
+#EXTINF:-1, SW™ - Town TV HD
+http://103.242.13.90:5555/udp/239.4.1.77:10000
+#EXTINF:-1, SW™ - NICE HD
+http://103.242.13.90:5555/udp/239.4.2.218:10000
+#EXTINF:-1, SW™ - Discovery World
+http://103.242.13.90:5555/udp/239.4.1.20:10000
+#EXTINF:-1, SW™ - NGC
+http://103.242.13.90:5555/udp/239.4.1.61:10000
+#EXTINF:-1, SW™ - Discovery Channel
+http://103.242.13.90:5555/udp/239.4.1.19:10000
+#EXTINF:-1, SW™ - Discovery World
+http://103.242.13.90:5555/udp/239.4.1.20:10000
+#EXTINF:-1, SW™ - NGC
+http://103.242.13.90:5555/udp/239.4.1.61:10000
+#EXTINF:-1, SW™ - Nat Geo Wild
+http://103.242.13.90:5555/udp/239.4.1.62:10000
+#EXTINF:-1, SW™ - Discovery Ch
+http://103.242.13.90:5555/udp/239.4.2.19:10000
 
-#EXTINF:-1,Suluk®IN: Star Sports 1 HD
-http://izgemma.ddns.net:8000/live/office/test/612.ts
-#EXTINF:-1,Suluk®IN: Star Sports 2 HD
-http://izgemma.ddns.net:8000/live/office/test/611.ts
-#EXTINF:-1,Suluk®IN: Star Sports 3 HD
-http://izgemma.ddns.net:8000/live/office/test/610.ts
-#EXTINF:-1,Suluk®IN: Star Sports 2
-http://izgemma.ddns.net:8000/live/office/test/309.ts
-#EXTINF:-1,Suluk®IN: Star Sports 3
-http://izgemma.ddns.net:8000/live/office/test/308.ts
-#EXTINF:-1,Suluk®IN: Star Sports 4
-http://izgemma.ddns.net:8000/live/office/test/307.ts
-#EXTINF:-1,Suluk®IN: Ten 1 HD (.)
-http://izgemma.ddns.net:8000/live/office/test/274.ts
-#EXTINF:-1,Suluk®IN: Ten Action (.)
-http://izgemma.ddns.net:8000/live/office/test/291.ts
-#EXTINF:-1,Suluk®MY@ .Astro Sports
-http://izgemma.ddns.net:8000/live/office/test/36505.ts
-#EXTINF:-1,Suluk®MY@ .SkyNet Sports 1
-http://izgemma.ddns.net:8000/live/office/test/36504.ts
-#EXTINF:-1,Suluk®MY@ .SkyNet Sports 2
-http://izgemma.ddns.net:8000/live/office/test/36503.ts
-#EXTINF:-1,Suluk®MY@ .SkyNet Sports 3
-http://izgemma.ddns.net:8000/live/office/test/36502.ts
-#EXTINF:-1,Suluk®MY@ .SkyNet Sports 4
-http://izgemma.ddns.net:8000/live/office/test/36501.ts
-#EXTINF:-1,Suluk®MY@ .SkyNet Sports 5
-http://izgemma.ddns.net:8000/live/office/test/36500.ts
-#EXTINF:-1,Suluk®MY@ .SkyNet Sports 6
-http://izgemma.ddns.net:8000/live/office/test/36499.ts
-#EXTINF:-1,Suluk®USA: ESPN-1HD
-http://izgemma.ddns.net:8000/live/office/test/37330.ts
-#EXTINF:-1,Suluk®USA: PAC-12 Network
-http://izgemma.ddns.net:8000/live/office/test/37500.ts
-#EXTINF:-1,Suluk®AR@ Bein Sports 4 HD
-http://izgemma.ddns.net:8000/live/office/test/16864.ts
-#EXTINF:-1,Suluk®AR: Bein Sports 8 HD
-http://izgemma.ddns.net:8000/live/office/test/375.ts
-#EXTINF:-1,Suluk®AR: Bein Sports 9 HD
-http://izgemma.ddns.net:8000/live/office/test/376.ts
-#EXTINF:-1,Suluk®FR: Bein Sports 2 HD
-http://izgemma.ddns.net:8000/live/office/test/479.ts
-#EXTINF:-1,Suluk®FR: Bein Sports 3 HD
-http://izgemma.ddns.net:8000/live/office/test/478.ts
-#EXTINF:-1,Suluk®TR: Bein Sports 2 HD
-http://izgemma.ddns.net:8000/live/office/test/6036.ts
-#EXTINF:-1,Suluk®IN: SONY PIX HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8
-#EXTINF:-1,Suluk®IN: SONY PLEX HD
-http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/01.m3u8
-#EXTINF:-1,Suluk®IN: SONY ROX HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/01.m3u8
-#EXTINF:-1,Suluk®IN: Animal Planet HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-#EXTINF:-1,Suluk®IN: Discovery WORLD HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:-1,Suluk®IN: SONY BBC EARTH HD
-http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8
-#EXTINF:-1,Suluk®IN: AXN HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
-#EXTINF:-1,Suluk®UK@ At The Races
-http://izgemma.ddns.net:8000/live/office/test/36498.ts
-#EXTINF:-1,Suluk®UK@ At The Races (Backup)
-http://izgemma.ddns.net:8000/live/office/test/29479.ts
-#EXTINF:-1,Suluk®UK@ Racing UK HD
-http://izgemma.ddns.net:8000/live/office/test/11160.ts
-#EXTINF:-1,Suluk®UK@ Racing UK (Backup)
-http://izgemma.ddns.net:8000/live/office/test/29478.ts
-#EXTINF:-1,Suluk®UK@ Racing UK (Backup-1)
-http://izgemma.ddns.net:8000/live/office/test/37381.ts
-#EXTINF:-1,Suluk®UK@ Boxnation HD
-http://izgemma.ddns.net:8000/live/office/test/36506.ts
-#EXTINF:-1,Suluk®UK@ Boxnation (Backup)
-http://izgemma.ddns.net:8000/live/office/test/37382.ts
-#EXTINF:-1,Suluk®UK@ Premier Sports HD
-http://izgemma.ddns.net:8000/live/office/test/10767.ts
-#EXTINF:-1,Suluk®UK@ Eir Sports 1 HD
-http://izgemma.ddns.net:8000/live/office/test/10765.ts
-#EXTINF:-1,Suluk®UK@ eir Sports 2 HD
-http://izgemma.ddns.net:8000/live/office/test/37425.ts
-#EXTINF:-1,Suluk®UK@ Motorsports TV
-http://izgemma.ddns.net:8000/live/office/test/10772.ts
-#EXTINF:-1,Suluk®UK@ Free Sports
-http://izgemma.ddns.net:8000/live/office/test/23002.ts
-#EXTINF:-1,Suluk®UK@ Eurosports HD
-http://izgemma.ddns.net:8000/live/office/test/37159.ts
-#EXTINF:-1,Suluk®UK@ Ziggo Sport Racing
-http://izgemma.ddns.net:8000/live/office/test/37165.ts
-#EXTINF:-1,Suluk®UK: Discovery Channel HD
-http://izgemma.ddns.net:8000/live/office/test/608.ts
-#EXTINF:-1,Suluk®UK: Animal Planet HD
-http://izgemma.ddns.net:8000/live/office/test/128.ts
-#EXTINF:-1,Suluk®UK: National-Geo Wild HD
-http://izgemma.ddns.net:8000/live/office/test/2986.ts
-#EXTINF:-1,Suluk®UK: Discovery Turbo
-http://izgemma.ddns.net:8000/live/office/test/107.ts
-#EXTINF:-1,Suluk®UK: Discovery Science
-http://izgemma.ddns.net:8000/live/office/test/105.ts
-#EXTINF:-1,Suluk®UK: BBC One HD
-http://izgemma.ddns.net:8000/live/office/test/13688.ts
-#EXTINF:-1,Suluk®UK: Discovery History
-http://izgemma.ddns.net:8000/live/office/test/106.ts
-#EXTINF:-1,Suluk®UK: BBC Two HD
-http://izgemma.ddns.net:8000/live/office/test/120.ts
-#EXTINF:-1,Suluk®UK: ITV Be HD
-http://izgemma.ddns.net:8000/live/office/test/1397.ts
-#EXTINF:-1,Suluk®UK: ITV 1 HD
-http://izgemma.ddns.net:8000/live/office/test/13657.ts
-#EXTINF:-1,Suluk®UK: ITV 2 HD
-http://izgemma.ddns.net:8000/live/office/test/13715.ts
-#EXTINF:-1,Suluk®UK: ITV 3 HD
-http://izgemma.ddns.net:8000/live/office/test/100.ts
-#EXTINF:-1,Suluk®UK: Sky One HD
-http://izgemma.ddns.net:8000/live/office/test/698.ts
-#EXTINF:-1,Suluk®UK: Sky One (Backup)
-http://izgemma.ddns.net:8000/live/office/test/14078.ts
-#EXTINF:-1,Suluk®UK: Universal HD
-http://izgemma.ddns.net:8000/live/office/test/1751.ts
-#EXTINF:-1,Suluk®UK: Syfy
-http://izgemma.ddns.net:8000/live/office/test/1233.ts
-#EXTINF:-1,Suluk®UK: BBC One London
-http://izgemma.ddns.net:8000/live/office/test/821.ts
-#EXTINF:-1,Suluk®UK: BBC 4 HD
-http://izgemma.ddns.net:8000/live/office/test/1757.ts
-#EXTINF:-1,Suluk®UK: TLC
-http://izgemma.ddns.net:8000/live/office/test/1396.ts
-#EXTINF:-1,Suluk®UK: MTV
-http://izgemma.ddns.net:8000/live/office/test/1754.ts
-#EXTINF:-1,Suluk®UK: E4
-http://izgemma.ddns.net:8000/live/office/test/1414.ts
-#EXTINF:-1,Suluk®UK: UTV Ireland
-http://izgemma.ddns.net:8000/live/office/test/6038.ts
-#EXTINF:-1,Suluk®UK: Sony Channel
-http://izgemma.ddns.net:8000/live/office/test/1764.ts
-#EXTINF:-1,Suluk®UK: Spike
-http://izgemma.ddns.net:8000/live/office/test/1246.ts
-#EXTINF:-1,Suluk®UK: DMAX
-http://izgemma.ddns.net:8000/live/office/test/1399.ts
-#EXTINF:-1,Suluk®UK: Food Network
-http://izgemma.ddns.net:8000/live/office/test/1394.ts
-#EXTINF:-1,Suluk®UK: Sky Cinema Premiere HD
-http://izgemma.ddns.net:8000/live/office/test/67.ts
-#EXTINF:-1,Suluk®UK: Sky Cinema Action
-http://izgemma.ddns.net:8000/live/office/test/6229.ts
-#EXTINF:-1,Suluk®UK: Sky Cinema Comedy HD
-http://izgemma.ddns.net:8000/live/office/test/7836.ts
-#EXTINF:-1,Suluk®UK: Sky Cinema Comedy
-http://izgemma.ddns.net:8000/live/office/test/73.ts
-#EXTINF:-1,Suluk®UK: Sky Cinema Family HD
-http://izgemma.ddns.net:8000/live/office/test/6225.ts
-#EXTINF:-1,Suluk®UK: Sky Cinema Family
-http://izgemma.ddns.net:8000/live/office/test/70.ts
-#EXTINF:-1,Suluk®UK: Sky Cinema Select HD
-http://izgemma.ddns.net:8000/live/office/test/6221.ts
-#EXTINF:-1,Suluk®UK: Sky Cinema Select
-http://izgemma.ddns.net:8000/live/office/test/65.ts
-#EXTINF:-1,Suluk®UK: Sky Cinema Drama
-http://izgemma.ddns.net:8000/live/office/test/71.ts
-#EXTINF:-1,Suluk®UK: Sky Cinema Thriller HD
-http://izgemma.ddns.net:8000/live/office/test/6223.ts
-#EXTINF:-1,Suluk®UK: Sky Cinema Thriller
-http://izgemma.ddns.net:8000/live/office/test/76.ts
-#EXTINF:-1,Suluk®UK: Sky Cinema ScFi-Horror
-http://izgemma.ddns.net:8000/live/office/test/66.ts
-#EXTINF:-1,Suluk®UK: Sky Cinema Modern Greats
-http://izgemma.ddns.net:8000/live/office/test/69.ts
-#EXTINF:-1,Suluk®UK: Film 4
-http://izgemma.ddns.net:8000/live/office/test/102.ts
-#EXTINF:-1,Suluk®UK: TCM HD
-http://izgemma.ddns.net:8000/live/office/test/1248.ts
-#EXTINF:-1,Suluk®UK: Movie 4 Men
-http://izgemma.ddns.net:8000/live/office/test/1259.ts
-#EXTINF:-1,Suluk®UK@ Movies 24
-http://izgemma.ddns.net:8000/live/office/test/26571.ts
-#EXTINF:-1,Suluk®UK: True Movies 1
-http://izgemma.ddns.net:8000/live/office/test/25.ts
-#EXTINF:-1,Suluk®UK: MTV Base
-http://izgemma.ddns.net:8000/live/office/test/1440.ts
-#EXTINF:-1,Suluk®UK: MTV Dance
-http://izgemma.ddns.net:8000/live/office/test/1441.ts
-#EXTINF:-1,Suluk®UK: MTV Hits
-http://izgemma.ddns.net:8000/live/office/test/92.ts
-#EXTINF:-1,Suluk®UK: Sky Sports Main Event HD
-http://izgemma.ddns.net:8000/live/office/test/6672.ts
-#EXTINF:-1,Suluk®UK: Sky Sports Main Event (Backup)
-http://izgemma.ddns.net:8000/live/office/test/1121.ts
-#EXTINF:-1,Suluk®UK: Sky Sports Premier League HD
-http://izgemma.ddns.net:8000/live/office/test/38.ts
-#EXTINF:-1,Suluk®UK: Sky Sports Premier League (Backup)
-http://izgemma.ddns.net:8000/live/office/test/44.ts
-#EXTINF:-1,Suluk®UK: Sky Sports Football HD
-http://izgemma.ddns.net:8000/live/office/test/12450.ts
-#EXTINF:-1,Suluk®UK: Sky Sports Cricket HD
-http://izgemma.ddns.net:8000/live/office/test/6669.ts
-#EXTINF:-1,Suluk®UK: Sky Sports Cricket (Backup)
-http://izgemma.ddns.net:8000/live/office/test/1122.ts
-#EXTINF:-1,Suluk®UK: Sky Sports Golf HD
-http://izgemma.ddns.net:8000/live/office/test/13181.ts
-#EXTINF:-1,Suluk®UK: Sky Sports F1 HD
-http://izgemma.ddns.net:8000/live/office/test/5.ts
-#EXTINF:-1,Suluk®UK: Sky Sports F1 (Backup)
-http://izgemma.ddns.net:8000/live/office/test/1416.ts
-#EXTINF:-1,Suluk®UK: Sky Sports Action HD
-http://izgemma.ddns.net:8000/live/office/test/6670.ts
-#EXTINF:-1,Suluk®UK: Sky Sports Action (Backup)
-http://izgemma.ddns.net:8000/live/office/test/1123.ts
-#EXTINF:-1,Suluk®UK: Sky Sports News HQ
-http://izgemma.ddns.net:8000/live/office/test/6668.ts
-#EXTINF:-1,Suluk®UK: Sky Sports News SD
-http://izgemma.ddns.net:8000/live/office/test/20.ts
-#EXTINF:-1,Suluk®UK: Sky Sports Mix HD
-http://izgemma.ddns.net:8000/live/office/test/6461.ts
-#EXTINF:-1,Suluk® UK: Sky Sports PPV HD (Boxing Haye V Bellew)
-http://izgemma.ddns.net:8000/live/office/test/37271.ts
-#EXTINF:-1,Suluk®UK: BT Sport 1 HD
-http://izgemma.ddns.net:8000/live/office/test/1389.ts
-#EXTINF:-1,Suluk®UK: BT Sport 1 (backup)
-http://izgemma.ddns.net:8000/live/office/test/56.ts
-#EXTINF:-1,Suluk®UK: BT Sport 2 HD
-http://izgemma.ddns.net:8000/live/office/test/6667.ts
-#EXTINF:-1,Suluk®UK: BT Sport 2 (backup)
-http://izgemma.ddns.net:8000/live/office/test/1124.ts
-#EXTINF:-1,Suluk®UK: BT Sport 3 HD
-http://izgemma.ddns.net:8000/live/office/test/6671.ts
-#EXTINF:-1,Suluk®UK: BT Sport 3 SD
-http://izgemma.ddns.net:8000/live/office/test/815.ts
-#EXTINF:-1,Suluk®UK: BT Sport ESPN..
-http://izgemma.ddns.net:8000/live/office/test/129.ts
-#EXTINF:-1,Suluk®UK: Eurosport 1 HD
-http://izgemma.ddns.net:8000/live/office/test/799.ts
-#EXTINF:-1,Suluk®UK: Eurosport 2
-http://izgemma.ddns.net:8000/live/office/test/798.ts
-#EXTINF:-1,Suluk®UK: Premiere Sport HD
-http://izgemma.ddns.net:8000/live/office/test/45.ts
-#EXTINF:-1,Suluk®UK: Liverpool FC
-http://izgemma.ddns.net:8000/live/office/test/716.ts
-#EXTINF:-1,Suluk®UK: Chelsea TV
-http://izgemma.ddns.net:8000/live/office/test/23.ts
-#EXTINF:-1,Suluk®UK: Motors Tv
-http://izgemma.ddns.net:8000/live/office/test/61.ts
-#EXTINF:-1,Suluk®UK: At The Races
-http://izgemma.ddns.net:8000/live/office/test/60.ts
-#EXTINF:-1,Suluk®UK: Racing UK HD
-http://izgemma.ddns.net:8000/live/office/test/1417.ts
-#EXTINF:-1,Suluk®UK: BoxNation.
-http://izgemma.ddns.net:8000/live/office/test/96.ts
-#EXTINF:-1,Suluk®UK: Sky News HD
-http://izgemma.ddns.net:8000/live/office/test/63.ts
-#EXTINF:-1,Suluk®UK: FOX News
-http://izgemma.ddns.net:8000/live/office/test/614.ts
-#EXTINF:-1,Suluk®UK: NHK World News HD
-http://izgemma.ddns.net:8000/live/office/test/89.ts
-#EXTINF:-1,Suluk®UK: BBC News HD
-http://izgemma.ddns.net:8000/live/office/test/1384.ts
-#EXTINF:-1,Suluk®UK: BBC News.
-http://izgemma.ddns.net:8000/live/office/test/123.ts
-#EXTINF:-1,Suluk®UK: BBC World News.
-http://izgemma.ddns.net:8000/live/office/test/124.ts
-#EXTINF:-1,Suluk®UK: Bloomberg.
-http://izgemma.ddns.net:8000/live/office/test/1865.ts
-#EXTINF:-1,Suluk®UK: Nat Geographic
-http://izgemma.ddns.net:8000/live/office/test/91.ts
-#EXTINF:-1,Suluk®UK: History
-http://izgemma.ddns.net:8000/live/office/test/1370.ts
-#EXTINF:-1,Suluk®UK: H2.
-http://izgemma.ddns.net:8000/live/office/test/3494.ts
-#EXTINF:-1,Suluk®UK: Crime & Investigation
-http://izgemma.ddns.net:8000/live/office/test/109.ts
-#EXTINF:-1,Suluk®UK: Nick Jr.
-http://izgemma.ddns.net:8000/live/office/test/86.ts
-#EXTINF:-1,Suluk®UK: Disney Channel
-http://izgemma.ddns.net:8000/live/office/test/804.ts
-#EXTINF:-1,Suluk®UK: Disney XD HD
-http://izgemma.ddns.net:8000/live/office/test/2704.ts
-#EXTINF:-1,Suluk®UK: Boomerang
-http://izgemma.ddns.net:8000/live/office/test/115.ts
-#EXTINF:-1,Suluk®UK: Cartoon Network HD
-http://izgemma.ddns.net:8000/live/office/test/118.ts
-#EXTINF:-1,Suluk®UK: Cbeebies
-http://izgemma.ddns.net:8000/live/office/test/116.ts
-#EXTINF:-1,Suluk®UK: Disney junior
-http://izgemma.ddns.net:8000/live/office/test/103.ts
-#EXTINF:-1,Suluk®UK: Nick HD
-http://izgemma.ddns.net:8000/live/office/test/88.ts
-#EXTINF:-1,Suluk®UK: Nickelodeon
-http://izgemma.ddns.net:8000/live/office/test/87.ts
-#EXTINF:-1,Suluk®UK: Nicktoons
-http://izgemma.ddns.net:8000/live/office/test/85.ts
-#EXTINF:-1,Suluk®UK: CNN
-http://izgemma.ddns.net:8000/live/office/test/1750.ts
-#EXTINF:-1,Suluk®UK: GEO News
-http://izgemma.ddns.net:8000/live/office/test/8071.ts
-#EXTINF:-1,Suluk®UK: MTV HD
-http://izgemma.ddns.net:8000/live/office/test/21295.ts
-#EXTINF:-1,Suluk®UK@ Chilled 90s Radio
-http://izgemma.ddns.net:8000/live/office/test/11741.ts
-#EXTINF:-1,Suluk®UK@ NOW 80s..
-http://izgemma.ddns.net:8000/live/office/test/11752.ts
+#EXTINF:-1, SW™ - CGTN News
+http://103.242.13.90:5555/udp/239.4.1.11:10000
+#EXTINF:-1, SW™ - HubeiTV
+http://103.242.13.90:5555/udp/239.4.1.4:10000
+#EXTINF:-1, SW™ - JSWS
+http://103.242.13.90:5555/udp/239.4.1.1:10000
+#EXTINF:-1, SW™ - Guangdong1
+http://103.242.13.90:5555/udp/239.4.1.5:10000
+#EXTINF:-1, SW™ - FJTV
+http://103.242.13.90:5555/udp/239.4.1.7:10000
+#EXTINF:-1, SW™ - HNSTV
+http://103.242.13.90:5555/udp/239.4.1.3:10000
+#EXTINF:-1, SW™ - GXTV
+http://103.242.13.90:5555/udp/239.4.1.8:10000
+#EXTINF:-1, SW™ - True
+http://103.242.13.90:5555/udp/239.4.1.149:10000
+
+
+#EXTINF:-1, SW™ - BBC_AV
+http://103.242.13.90:5555/udp/239.4.1.70:10000
+#EXTINF:-1, SW™ - Australia Plus
+http://103.242.13.90:5555/udp/239.4.1.79:10000
+#EXTINF:-1, SW™ - Eurosport
+http://103.242.13.90:5555/udp/239.4.1.108:10000
+
+#EXTINF:-1, SW™ - CNNI Asia
+http://103.242.13.90:5555/udp/239.4.1.105:10000
+
+#EXTINF:-1, SW™ - Thai_3
+http://103.242.13.90:5555/udp/239.4.1.15:10000
+#EXTINF:-1, SW™ - CGTN Documentary
+http://103.242.13.90:5555/udp/239.4.1.13:10000
+
+#EXTINF:-1, SW™ - ShanDongTV
+http://103.242.13.90:5555/udp/239.4.1.23:10000
+#EXTINF:-1, SW™ - BTV
+http://103.242.13.90:5555/udp/239.4.1.24:10000
+#EXTINF:-1, SW™ - Jykaton
+http://103.242.13.90:5555/udp/239.4.1.16:10000
+#EXTINF:-1, SW™ - sichuan
+http://103.242.13.90:5555/udp/239.4.1.27:10000
+#EXTINF:-1, SW™ - CGTN Francais
+http://103.242.13.90:5555/udp/239.4.1.18:10000
+#EXTINF:-1, SW™ - ZJTV
+http://103.242.13.90:5555/udp/239.4.1.21:10000
+
+#EXTINF:-1, SW™ - AHTV Service
+http://103.242.13.90:5555/udp/239.4.1.22:10000
+#EXTINF:-1, SW™ - Tianjin TV
+http://103.242.13.90:5555/udp/239.4.1.25:10000
+#EXTINF:-1, SW™ - Channel [V]
+http://103.242.13.90:5555/udp/239.4.1.34:10000
+#EXTINF:-1, SW™ - Thai_7
+http://103.242.13.90:5555/udp/239.4.1.30:10000
+#EXTINF:-1, SW™ - JXTV1
+http://103.242.13.90:5555/udp/239.4.1.29:10000
+#EXTINF:-1, SW™ - Henan TV
+http://103.242.13.90:5555/udp/239.4.1.28:10000
+#EXTINF:-1, SW™ - DW-
+http://103.242.13.90:5555/udp/239.4.1.37:10000
+#EXTINF:-1, SW™ - XING KONG 
+http://103.242.13.90:5555/udp/239.4.1.33:10000
+#EXTINF:-1, SW™ - TV5 Monde 
+http://103.242.13.90:5555/udp/239.4.1.38:10000
+#EXTINF:-1, SW™ - LOTUS
+http://103.242.13.90:5555/udp/239.4.1.39:10000
+#EXTINF:-1, SW™ - Phx Chinese Channel-
+http://103.242.13.90:5555/udp/239.4.1.35:10000
+#EXTINF:-1, SW™ - Hunan - (Hua Yu)
+http://103.242.13.90:5555/udp/239.4.1.41:10000
+#EXTINF:-1, SW™ -  TVB8 
+http://103.242.13.90:5555/udp/239.4.1.40:10000
+#EXTINF:-1, SW™ - Al Jazeera English 
+http://103.242.13.90:5555/udp/239.4.1.43:10000
+#EXTINF:-1, SW™ - CNNI-
+http://103.242.13.90:5555/udp/239.4.1.54:10000
+#EXTINF:-1, SW™ - 03-3 Fashion TV SD Asia 
+http://103.242.13.90:5555/udp/239.4.1.51:10000
+
+
+#EXTINF:-1, SW™ - 07-2 MYTV 
+http://103.242.13.90:5555/udp/239.4.1.56:10000
+#EXTINF:-1, SW™ - Cartoon Network-
+http://103.242.13.90:5555/udp/239.4.1.52:10000
+
+#EXTINF:-1, SW™ - CTN 
+http://103.242.13.90:5555/udp/239.4.1.57:10000
+#EXTINF:-1, SW™ - CNC 
+http://103.242.13.90:5555/udp/239.4.1.55:10000
+#EXTINF:-1, SW™ - ARY Musik 
+http://103.242.13.90:5555/udp/239.4.1.65:10000
+#EXTINF:-1, SW™ - Nat Geo
+http://103.242.13.90:5555/udp/239.4.2.85:10000
+#EXTINF:-1, SW™ - France 24
+http://103.242.13.90:5555/udp/239.4.2.88:10000
+#EXTINF:-1, SW™ - EURONEWS-ASIA 
+http://103.242.13.90:5555/udp/239.4.1.75:10000
+#EXTINF:-1, SW™ - YTN 
+http://103.242.13.90:5555/udp/239.4.1.73:10000
+#EXTINF:-1, SW™ - MTV China-
+http://103.242.13.90:5555/udp/239.4.1.71:10000
+#EXTINF:-1, SW™ - ArirangTV
+http://103.242.13.90:5555/udp/239.4.1.74:10000
+#EXTINF:-1, SW™ - BBC_AV
+http://103.242.13.90:5555/udp/239.4.1.70:10000
+#EXTINF:-1, SW™ - FOX MOVIES PRE 
+http://103.242.13.90:5555/udp/239.4.1.84:10000
+#EXTINF:-1, SW™ - Australia Plus
+http://103.242.13.90:5555/udp/239.4.1.79:10000
+#EXTINF:-1, SW™ - 6-3 France 24 (en Francais) 
+http://103.242.13.90:5555/udp/239.4.1.89:10000
+#EXTINF:-1, SW™ - YUNNAN-1
+http://103.242.13.90:5555/udp/239.4.1.92:10000
+#EXTINF:-1, SW™ - SanSha
+http://103.242.13.90:5555/udp/239.4.1.94:10000
+#EXTINF:-1, SW™ - SZTV
+http://103.242.13.90:5555/udp/239.4.1.91:10000
+#EXTINF:-1, SW™ - TVS2
+http://103.242.13.90:5555/udp/239.4.1.95:10000
+#EXTINF:-1, SW™ - Rai Italia Asia 
+http://103.242.13.90:5555/udp/239.4.1.87:10000
+#EXTINF:-1, SW™ - 6-2 France 24 
+http://103.242.13.90:5555/udp/239.4.1.88:10000
+#EXTINF:-1, SW™ - New
+http://103.242.13.90:5555/udp/239.4.1.97:10000
+#EXTINF:-1, SW™ - BON - DW
+http://103.242.13.90:5555/udp/239.4.1.99:10000
+#EXTINF:-1, SW™ - Eurosport-
+http://103.242.13.90:5555/udp/239.4.1.108:10000
+#EXTINF:-1, SW™ - MITV
+http://103.242.13.90:5555/udp/239.4.1.104:10000
+#EXTINF:-1, SW™ - CNNI Asia
+http://103.242.13.90:5555/udp/239.4.1.105:10000
+#EXTINF:-1, SW™ - Astro
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+#EXTINF:-1, SW™ - True
+http://103.242.13.90:5555/udp/239.4.1.149:10000
+#EXTINF:-1, SW™ - Service01
+http://103.242.13.90:5555/udp/239.4.1.181:10000
+#EXTINF:-1, SW™ - TV5 
+http://103.242.13.90:5555/udp/239.4.1.204:10000
+#EXTINF:-1, SW™ - TV3 
+http://103.242.13.90:5555/udp/239.4.1.203:10000
+#EXTINF:-1, SW™ - NTV 
+http://103.242.13.90:5555/udp/239.4.1.205:10000
+#EXTINF:-1, SW™ - ASIA TELEVISION 
+http://103.242.13.90:5555/udp/239.4.1.206:10000
+#EXTINF:-1, SW™ - Hang Meas 
+http://103.242.13.90:5555/udp/239.4.1.211:10000
+#EXTINF:-1, SW™ - TVK 
+http://103.242.13.90:5555/udp/239.4.1.201:10000
+#EXTINF:-1, SW™ - APSARA 
+http://103.242.13.90:5555/udp/239.4.1.202:10000
+#EXTINF:-1, SW™ - Bayon ETV 
+http://103.242.13.90:5555/udp/239.4.1.209:10000
+#EXTINF:-1, SW™ - BAYON 
+http://103.242.13.90:5555/udp/239.4.1.208:10000
+#EXTINF:-1, SW™ - BAYON BTV 
+http://103.242.13.90:5555/udp/239.4.1.210:10000
+#EXTINF:-1, SW™ - TV3 Asia 
+http://103.242.13.90:5555/udp/239.4.1.214:10000
+#EXTINF:-1, SW™ - CNBC Asia NTSC
+http://103.242.13.90:5555/udp/239.4.1.217:10000
+#EXTINF:-1, SW™ - Hang Meas News 
+http://103.242.13.90:5555/udp/239.4.1.216:10000
+#EXTINF:-1, SW™ - BloombergAV
+http://103.242.13.90:5555/udp/239.4.1.236:10000
+#EXTINF:-1, SW™ - Phx Chinese Channel-
+http://103.242.13.90:5555/udp/239.4.1.32:10000
+#EXTINF:-1, SW™ - DVT
+http://103.242.13.90:5555/udp/239.4.1.6:10000
+#EXTINF:-1, SW™ - CQTV
+http://103.242.13.90:5555/udp/239.4.1.26:10000
+#EXTINF:-1, SW™ - SBN
+http://103.242.13.90:5555/udp/239.4.1.2:10000
+#EXTINF:-1, SW™ - Phx Infonews Channel-
+http://103.242.13.90:5555/udp/239.4.1.31:10000
+#EXTINF:-1, SW™ - MAStv 
+http://103.242.13.90:5555/udp/239.4.1.60:10000
+#EXTINF:-1, SW™ - CNC World-English
+http://103.242.13.90:5555/udp/239.4.1.59:10000
+#EXTINF:-1, SW™ - Digital TV
+http://103.242.13.90:5555/udp/239.4.1.93:10000
+#EXTINF:-1, SW™ - New 1
+http://103.242.13.90:5555/udp/239.4.2.1:10000
+#EXTINF:-1, SW™ - New 2
+http://103.242.13.90:5555/udp/239.4.2.2:10000
+#EXTINF:-1, SW™ - New 3
+http://103.242.13.90:5555/udp/239.4.2.3:10000
+#EXTINF:-1, SW™ - New 4
+http://103.242.13.90:5555/udp/239.4.2.5:10000
+#EXTINF:-1, SW™ - New 5
+http://103.242.13.90:5555/udp/239.4.2.8:10000
+#EXTINF:-1, SW™ - CGTN
+http://103.242.13.90:5555/udp/239.4.2.13:10000
+#EXTINF:-1, SW™ - CGTN
+http://103.242.13.90:5555/udp/239.4.2.11:10000
+#EXTINF:-1, SW™ - New 11
+http://103.242.13.90:5555/udp/239.4.2.16:10000
+#EXTINF:-1, SW™ - New 13
+http://103.242.13.90:5555/udp/239.4.2.21:10000
+#EXTINF:-1, SW™ - New 14
+http://103.242.13.90:5555/udp/239.4.2.22:10000
+#EXTINF:-1, SW™ - BTV
+http://103.242.13.90:5555/udp/239.4.2.24:10000
+#EXTINF:-1, SW™ - Phx
+http://103.242.13.90:5555/udp/239.4.2.31:10000
+#EXTINF:-1, SW™ - New 17
+http://103.242.13.90:5555/udp/239.4.2.39:10000
+#EXTINF:-1, SW™ - TV5 Monde
+http://103.242.13.90:5555/udp/239.4.2.38:10000
+#EXTINF:-1, SW™ - AL Jazeera
+http://103.242.13.90:5555/udp/239.4.2.43:10000
+#EXTINF:-1, SW™ - Eurosport
+http://103.242.13.90:5555/udp/239.4.2.44:10000
+#EXTINF:-1, SW™ - New 22
+http://103.242.13.90:5555/udp/239.4.2.57:10000
+#EXTINF:-1, SW™ - New 23
+http://103.242.13.90:5555/udp/239.4.2.58:10000
+#EXTINF:-1, SW™ - Hadi TV
+http://103.242.13.90:5555/udp/239.4.2.68:10000
+#EXTINF:-1, SW™ - New 25
+http://103.242.13.90:5555/udp/239.4.2.69:10000
+#EXTINF:-1, SW™ - New 26
+http://103.242.13.90:5555/udp/239.4.2.71:10000
+#EXTINF:-1, SW™ - EURONEWS-ASIA
+http://103.242.13.90:5555/udp/239.4.2.75:10000
+#EXTINF:-1, SW™ - ArirangTV
+http://103.242.13.90:5555/udp/239.4.2.74:10000
+#EXTINF:-1, SW™ - Town TV
+http://103.242.13.90:5555/udp/239.4.2.77:10000
+#EXTINF:-1, SW™ - New 33
+http://103.242.13.90:5555/udp/239.4.2.91:10000
+#EXTINF:-1, SW™ - MITV
+http://103.242.13.90:5555/udp/239.4.2.104:10000
+#EXTINF:-1, SW™ - New 35
+http://103.242.13.90:5555/udp/239.4.2.199:10000
+#EXTINF:-1, SW™ - New 36
+http://103.242.13.90:5555/udp/239.4.2.198:10000
+#EXTINF:-1, SW™ - New 37
+http://103.242.13.90:5555/udp/239.4.2.200:10000
+#EXTINF:-1, SW™ - New 38
+http://103.242.13.90:5555/udp/239.4.2.201:10000
+#EXTINF:-1, SW™ - APSARA
+http://103.242.13.90:5555/udp/239.4.2.202:10000
+#EXTINF:-1, SW™ - New 40
+http://103.242.13.90:5555/udp/239.4.2.203:10000
+#EXTINF:-1, SW™ - New 41
+http://103.242.13.90:5555/udp/239.4.2.204:10000
+#EXTINF:-1, SW™ - NTV
+http://103.242.13.90:5555/udp/239.4.2.205:10000
+#EXTINF:-1, SW™ - SEA TV
+http://103.242.13.90:5555/udp/239.4.2.206:10000
+#EXTINF:-1, SW™ - BAYON
+http://103.242.13.90:5555/udp/239.4.2.208:10000
+#EXTINF:-1, SW™ - ETV
+http://103.242.13.90:5555/udp/239.4.2.209:10000
+#EXTINF:-1, SW™ - BTV
+http://103.242.13.90:5555/udp/239.4.2.210:10000
+#EXTINF:-1, SW™ - New 46
+http://103.242.13.90:5555/udp/239.4.2.211:10000
+#EXTINF:-1, SW™ - New 47
+http://103.242.13.90:5555/udp/239.4.2.216:10000
+
+
 
