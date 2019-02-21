@@ -16,6 +16,63 @@ http://31.220.1.190:80/François/12345/63291
 http://31.220.1.190:80/Fran%C3%A7ois/12345/104006
 #EXTINF:-1,Fox Movies Action HD
 http://31.220.1.190:80/Fran%C3%A7ois/12345/124754
+
+#EXTINF:-1,AR: OSN ANIMAL PLANET HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96491
+#EXTINF:-1,AR: OSN CINEMA 1 HD
+http://p5.giffy.be:8080/rolando/rolando/96489
+#EXTINF:-1,AR: OSN CINEMA 1 HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96488
+#EXTINF:-1,AR: OSN CINEMA 2 HD
+http://p5.giffy.be:8080/rolando/rolando/96487
+#EXTINF:-1,AR: OSN CINEMA 2 HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96486
+#EXTINF:-1,AR: OSN DISCOVERY HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96483
+#EXTINF:-1,AR: OSN DISCOVERY IDX HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96472
+#EXTINF:-1,AR: OSN DISCOVEY SCIENCE HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96480
+#EXTINF:-1,AR: OSN DISNEY XD HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96478
+#EXTINF:-1,AR: OSN ENTERTAINMENT HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96477
+#EXTINF:-1,AR: OSN FANN HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96476
+#EXTINF:-1,AR: OSN FINE LIVING HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96475
+#EXTINF:-1,AR: OSN HISTORY 2 HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96474
+#EXTINF:-1,AR: OSN HISTORY HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96473
+#EXTINF:-1,AR: OSN MOVIES  2 HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96471
+#EXTINF:-1,AR: OSN MOVIES ACTION 2 HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96470
+#EXTINF:-1,AR: OSN MOVIES ACTION HD
+http://p5.giffy.be:8080/rolando/rolando/96469
+#EXTINF:-1,AR: OSN MOVIES HD
+http://p5.giffy.be:8080/rolando/rolando/96466
+#EXTINF:-1,AR: OSN MOVIES THRILLER  2 HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96464
+#EXTINF:-1,AR: OSN MOVIES THRILLER HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96463
+#EXTINF:-1,AR: OSN NAT GEO PEOPLE HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96458
+#EXTINF:-1,AR: OSN NAT GEO WILD HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96457
+#EXTINF:-1,AR: OSN SPORTS 1 HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96455
+#EXTINF:-1,AR: OSN SPORTS 4 HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96454
+#EXTINF:-1,AR: OSN SPORTS 5 HD ✦
+http://p5.giffy.be:8080/rolando/rolando/96453
+#EXTINF:-1,AR: OSN SPORTS ACTION 2 HD
+http://p5.giffy.be:8080/rolando/rolando/96452
+#EXTINF:-1,AR: OSN STAR MOVIE FHD
+http://p5.giffy.be:8080/rolando/rolando/96451
+#EXTINF:-1,AR: OSN STAR WORLD FHD ✦
+http://p5.giffy.be:8080/rolando/rolando/96450
 #EXTINF:-1,Da Vinci HD
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/01.m3u8
 #EXTINF:-1,ANIMAX
@@ -239,20 +296,20 @@ http://31.220.1.190:80/Fran%C3%A7ois/12345/147236
 #EXTINF:-1,Astro SuperSport 4 FHD
 http://31.220.1.190:80/Fran%C3%A7ois/12345/147237
 
-#EXTINF:-1,SkyNet Sports HD
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/5396
-#EXTINF:-1,SkyNet Sports 1 HD MY
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/7791
-#EXTINF:-1,SkyNet Sports 2 HD MY
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/7790
-#EXTINF:-1,SkyNet Sports 3 HD MY
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/7789
-#EXTINF:-1,SkyNet Sports 4 HD MY
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/7788
-#EXTINF:-1,SkyNet Sports 5 HD MY
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/7787
-#EXTINF:-1,SkyNet Sports 6 HD MY
-http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/7786
+#EXTINF:-1,Skynet Sports HD
+http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/4843
+#EXTINF:-1,Skynet Sports 1
+http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/4842
+#EXTINF:-1,Skynet Sports 2
+http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/4841
+#EXTINF:-1,Skynet Sports 3
+http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/4840
+#EXTINF:-1,Skynet Sports 4
+http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/4839
+#EXTINF:-1,Skynet Sports 5
+http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/4838
+#EXTINF:-1,Skynet Sports 6
+http://iptv.oirza.com:8000/RypHkWpDi2/PMD1lQNe1c/4837
 
 #EXTINF:-1,BeoutQ 1 HD
 http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21199
@@ -275,35 +332,37 @@ http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21191
 #EXTINF:-1,BeoutQ 10 HD
 http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21190
 
-#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30229
-#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30226
-#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30451
-#EXTINF:-1,UK: SKY SPORTS ARENA HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30210
-#EXTINF:-1,UK: SKY SPORTS GOLF HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30218
-#EXTINF:-1,UK: SKY SPORTS CRICKET HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30221
-#EXTINF:-1,UK: SKY SPORTS USA HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30213
-#EXTINF:-1,UK: SKY SPORTS F1 HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30450
-#EXTINF:-1,UK: SKY SPORTS MIX HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30452
-#EXTINF:-1,UK: SKY SPORTS NEWS HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30449
+#EXTINF:-1,UK: SKY SPORTS ACTION ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27626
+#EXTINF:-1,UK: SKY SPORTS ARENA ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27625
+#EXTINF:-1,UK: SKY SPORTS CRICKET ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27624
+#EXTINF:-1,UK: SKY SPORTS F1 ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27623
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27622
+#EXTINF:-1,UK: SKY SPORTS GOLF ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27621
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27620
+#EXTINF:-1,UK: SKY SPORTS MIX ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27619
+#EXTINF:-1,UK: SKY SPORTS NEWS ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27618
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27617
+#EXTINF:-1,UK: SKY SPORTS RACING
+http://wildsides.xyz:2086/pizza123/pizza123/43213
 
-#EXTINF:-1,UK: BT SPORT 1 HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30205
-#EXTINF:-1,UK: BT SPORT 2 HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30202
-#EXTINF:-1,UK: BT SPORT 3 HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30199
-#EXTINF:-1,UK: BT SPORT ESPN HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30197
+#EXTINF:-1,UK: BT SPORT 1 ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27637
+#EXTINF:-1,UK: BT SPORT 2 ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27636
+#EXTINF:-1,UK: BT SPORT 3 ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27635
+#EXTINF:-1,UK: BT SPORT ESPN ʜᴅ
+http://wildsides.xyz:2086/pizza123/pizza123/27634
 
 #EXTINF:-1,STAR SPORTS 1 HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports1
@@ -313,13 +372,13 @@ http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=starsports2
 #EXTINF:-1,IN: Sony Six HD
 http://thoptvstream.gq/api/tulip/bdtv.m3u8?id=sonysixhd
 #EXTINF:-1,SONY ESPN HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30429
+http://p5.giffy.be:8080/rolando/rolando/92847
 #EXTINF:-1,IN: Sony Ten 1 HD
 http://103.205.133.14/hls/ten1.m3u8
 #EXTINF:-1,IN: SONY TEN 2 HD
 http://103.205.133.14/hls/ten2.m3u8
 #EXTINF:-1,IN: SONY TEN 3 HD
-http://nitro.ltd:25461/mveras1972@gmail.com/s9Pu6t42Ap/29123
+http://p5.giffy.be:8080/rolando/rolando/92840
 
 #EXTINF:-1,TSN 1
 http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/63
@@ -331,20 +390,6 @@ http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/61
 http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/60
 #EXTINF:-1,TSN 5
 http://23.237.36.98:25461/ChiLLi/lasfu342ljkf8ug45123/59
-
-#EXTINF:-1,BR: Fox Sports 1 FHD
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11227.ts
-#EXTINF:-1,BR: Fox Sports 2 FHD
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11226.ts
-#EXTINF:-1,BR: Fox Sports 3 FHD
-http://iptv.wtf:25461/live/farmdpil/kr7td9TD25/11225.ts
-
-#EXTINF:-1,ES: MOVISTAR MOTOGP
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30762
-#EXTINF:-1,ES : MOVISTAR FORMULA 1
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30760
-#EXTINF:-1,ES: BEIN SPORTS HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30641
 
 #EXTINF:-1,Bein Sports HD 1
 http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/1.ts
@@ -371,6 +416,23 @@ http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/5472
 #EXTINF:-1,Bein Sports HD 12
 http://mypanel.tv:80/6s0bjibyyq/o23clzyiug/54715
 
+#EXTINF:-1,IL: YES SPORT 1 HD
+http://p5.giffy.be:8080/rolando/rolando/94786
+#EXTINF:-1,IL: YES SPORT 2 HD
+http://p5.giffy.be:8080/rolando/rolando/94785
+#EXTINF:-1,IL: YES SPORT 3 HD
+http://p5.giffy.be:8080/rolando/rolando/94784
+#EXTINF:-1,IL: YES SPORT 4 HD
+http://p5.giffy.be:8080/rolando/rolando/94783
+#EXTINF:-1,IL: YES SPORT 5 4K
+http://p5.giffy.be:8080/rolando/rolando/94782
+#EXTINF:-1,IL: YES SPORT 5 GOLD
+http://p5.giffy.be:8080/rolando/rolando/94781
+#EXTINF:-1,IL: YES SPORT 5 HD
+http://p5.giffy.be:8080/rolando/rolando/94780
+#EXTINF:-1,IL: YES SPORT 5 LIVE HD
+http://p5.giffy.be:8080/rolando/rolando/94779
+
 #EXTINF:-1,Astro 1
 http://203.154.243.89:1204
 #EXTINF:-1,Astro 2
@@ -379,15 +441,6 @@ http://203.154.243.89:1206
 http://203.154.243.89:1207
 #EXTINF:-1,Astro 4
 http://203.154.243.89:1211
-
-#EXTINF:-1,TR: TIVIBU SPOR 1 HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30629
-#EXTINF:-1,TR: TIVIBU SPOR 2 HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30628
-#EXTINF:-1,TR: TIVIBU SPOR 3 HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30627
-#EXTINF:-1,TR: TIVIBU SPOR 4 HD
-http://ewnsrule.pw:8080/michael.hefferon@yahoo.co.uk/67ppNgHepr/30626
 
 #EXTINF:-1,ESPN HD
 http://80.80.160.168/live/6/live.m3u8
